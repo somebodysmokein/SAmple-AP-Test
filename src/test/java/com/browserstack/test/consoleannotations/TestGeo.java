@@ -12,8 +12,8 @@ import java.util.HashMap;
 import java.util.Set;
 public class TestGeo {
 
-    public static final String AUTOMATE_USERNAME = "venkateshr_0PiUN7";
-    public static final String AUTOMATE_KEY = "ADZqq5cND8dihy2RJAZD";
+    public static final String AUTOMATE_USERNAME = "<username>";
+    public static final String AUTOMATE_KEY = "<access key>";
     public static final String URL = "https://" + AUTOMATE_USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
 
     public static void main(String[] args) throws Exception {
